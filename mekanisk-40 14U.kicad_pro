@@ -58,16 +58,18 @@
       "drc_exclusions": [
         "clearance|102393750|105410000|f8562ba3-cc29-47f6-a02f-bf45d0da3146|d6bbf353-61f2-4284-9551-2b55a4057740",
         "clearance|234632500|73342500|5395bd54-ad59-4f0b-800f-c1423ee1a040|bf5647f2-1ec0-4894-b3b2-37dce044f828",
-        "clearance|234632500|73342500|5395bd54-ad59-4f0b-800f-c1423ee1a040|f782d85b-336f-439b-b06e-cb3661bda6d2",
         "clearance|234632500|73342500|f782d85b-336f-439b-b06e-cb3661bda6d2|5395bd54-ad59-4f0b-800f-c1423ee1a040",
         "clearance|241776250|54292500|7eb15fc5-3442-4b13-8a8e-4a975b80898c|9d8dc014-e9b2-494a-bb19-37d3da52afab",
-        "clearance|241776250|54292500|9d8dc014-e9b2-494a-bb19-37d3da52afab|7eb15fc5-3442-4b13-8a8e-4a975b80898c",
         "clearance|241776250|54292500|9d8dc014-e9b2-494a-bb19-37d3da52afab|ddbd279d-92ce-4959-adb9-96c53f14a375",
+        "clearance|242887500|73342500|ab59f030-57a5-4112-8d0c-13238791d1b3|f782d85b-336f-439b-b06e-cb3661bda6d2",
+        "clearance|250031250|54292500|7eb15fc5-3442-4b13-8a8e-4a975b80898c|46d0b365-a903-4bcf-a4e3-09f4ca767a4b",
         "clearance|259635625|73342500|189aa8c7-b556-4791-85f0-9a44124acd94|bafadbae-dc6f-476d-926a-66dac8c4c559",
-        "clearance|259635625|73342500|bafadbae-dc6f-476d-926a-66dac8c4c559|189aa8c7-b556-4791-85f0-9a44124acd94",
         "clearance|259635625|73342500|bafadbae-dc6f-476d-926a-66dac8c4c559|f4cd0edb-9c3d-4747-addb-f1190815352c",
         "clearance|264398125|54292500|1fc2ee4d-865a-45bb-8dac-4de6b048a842|00517cf9-bdcd-4df2-988f-bd385afbe2d3",
         "clearance|264398125|54292500|fcdec09d-1fa1-499a-a7d7-f3ac3550877d|00517cf9-bdcd-4df2-988f-bd385afbe2d3",
+        "clearance|267890625|73342500|bafadbae-dc6f-476d-926a-66dac8c4c559|189aa8c7-b556-4791-85f0-9a44124acd94",
+        "clearance|272653125|54292500|1fc2ee4d-865a-45bb-8dac-4de6b048a842|00517cf9-bdcd-4df2-988f-bd385afbe2d3",
+        "clearance|50006250|73342500|51ca319f-98bc-4dd6-9d35-fbe00458d6da|251abda0-2118-4c8e-9b58-32d9aa9ecd22",
         "clearance|60801250|73342500|51ca319f-98bc-4dd6-9d35-fbe00458d6da|251abda0-2118-4c8e-9b58-32d9aa9ecd22",
         "clearance|60801250|73342500|d83df1a3-570c-48ca-b52a-d7573dd33f6b|251abda0-2118-4c8e-9b58-32d9aa9ecd22"
       ],
@@ -95,8 +97,8 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_issues": "ignore",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -106,7 +108,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -423,7 +425,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mekanisk-40.kicad_pro",
+    "filename": "mekanisk-40 14U.kicad_pro",
     "version": 1
   },
   "net_settings": {
