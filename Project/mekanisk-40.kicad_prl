@@ -1,7 +1,7 @@
 {
   "board": {
     "active_layer": 31,
-    "active_layer_preset": "All Layers",
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -61,14 +61,13 @@
       34,
       35,
       36,
-      39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "visible_layers": "ffefeff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "mekanisk-40 14U.kicad_prl",
+    "filename": "mekanisk-40.kicad_prl",
     "version": 3
   },
   "project": {
