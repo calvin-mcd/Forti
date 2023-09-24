@@ -74,7 +74,9 @@
         "clearance|264398125|54292500|fcdec09d-1fa1-499a-a7d7-f3ac3550877d|00517cf9-bdcd-4df2-988f-bd385afbe2d3",
         "clearance|60801250|73342500|51ca319f-98bc-4dd6-9d35-fbe00458d6da|251abda0-2118-4c8e-9b58-32d9aa9ecd22",
         "clearance|60801250|73342500|51ca319f-98bc-4dd6-9d35-fbe00458d6da|4aa3d061-945b-415a-9f06-944b6abc0824",
-        "clearance|60801250|73342500|d83df1a3-570c-48ca-b52a-d7573dd33f6b|251abda0-2118-4c8e-9b58-32d9aa9ecd22"
+        "clearance|60801250|73342500|d83df1a3-570c-48ca-b52a-d7573dd33f6b|251abda0-2118-4c8e-9b58-32d9aa9ecd22",
+        "silk_overlap|229537201|27148630|3b29260a-f7b2-4d91-a6ea-bed34696e6af|1b33e874-63f2-4084-a60a-50a6cb54bd22",
+        "silk_overlap|239061012|28101011|3b29260a-f7b2-4d91-a6ea-bed34696e6af|3403e864-a893-4330-acf7-8de7294be4e3"
       ],
       "meta": {
         "version": 2
@@ -428,7 +430,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mekanisk-40.kicad_pro",
+    "filename": "mekanical.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -507,6 +509,10 @@
     [
       "f5e5948c-eeca-4160-a5f8-686f765d01ce",
       ""
+    ],
+    [
+      "e6653766-2baf-4211-883c-2657a68ea9e7",
+      "rgb"
     ]
   ],
   "text_variables": {}
