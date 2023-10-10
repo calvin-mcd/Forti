@@ -28,7 +28,12 @@ Please note that this project is a work in progress with no guarantees of a work
 
 ## License
 
-This project is released under the GPL v3 License. Please refer to the LICENCE file.
+Shield: [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Credits
 
