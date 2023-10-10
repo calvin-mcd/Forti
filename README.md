@@ -14,7 +14,7 @@ WIP, design by xonuss
 
 ![](https://github.com/calvin-mcd/mekanical/blob/main/Case/gmk-wob.png)
 ![](https://github.com/calvin-mcd/mekanical/blob/main/Case/iso.png)
-![]https://github.com/calvin-mcd/mekanical/blob/main/Case/purplenight-vert-vesselsquared.png)
+![](https://github.com/calvin-mcd/mekanical/blob/main/Case/purplenight-vert-vesselsquared.png)
 
 ## Todo
 
@@ -32,7 +32,7 @@ This project is released under the GPL v3 License. Please refer to the LICENCE f
 
 ## Credits
 
-Big thanks to xonuss and xezioh for letting me join this awesome collaboration!
+Big thanks to xonuss and xezioh for letting me join this awesome collaboration!	
 
 As always big thanks to the many people who helped and inspired this board!
 
