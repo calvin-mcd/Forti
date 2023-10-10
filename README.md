@@ -1,6 +1,6 @@
 # Førti
 
-The Førti pcb (40 in Norwegian) is a 13.5u 40% pcb with full basekit support for the upcoming Førti keyboard case created and designed by xonuss and xezioh that is based on [Geon's F1-8x](https://geon.works/pages/f1-8x). The pcb takes its layout and design cues from the [oxymoron](https://imgur.com/a/UKyKxDe), [bully](https://www.cbkbd.com/product/bully) and [ttocyobitna](https://trashman.wiki/keyboards/ttocyobitna) amongst others. It's a stm32 based pcb for low cost, good performance.
+The Førti pcb (40 in Norwegian) is a 13u 40% pcb with full basekit support for the upcoming Førti keyboard case created and designed by xonuss and xezioh that is based on [Geon's F1-8x](https://geon.works/pages/f1-8x). The pcb takes its layout and design cues from the [oxymoron](https://imgur.com/a/UKyKxDe), [bully](https://www.cbkbd.com/product/bully) and [ttocyobitna](https://trashman.wiki/keyboards/ttocyobitna) amongst others. It's a stm32 based pcb for low cost, good performance.
 
 ## Layout
 
