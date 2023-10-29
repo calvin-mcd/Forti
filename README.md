@@ -6,7 +6,7 @@ The Førti pcb (40 in Norwegian) is a 13u 40% pcb with full basekit support for t
 
 ![](https://github.com/calvin-mcd/mekanical/blob/main/Images/KLE.png)
 
-[Link](http://www.keyboard-layout-editor.com/#/gists/5128065b26d1b06ab67932af8ce4eecb)
+[Link](http://www.keyboard-layout-editor.com/#/gists/abf1199a554d2e1b5c349f9fdb908042)
 
 ## Case
 
@@ -21,6 +21,7 @@ WIP, design by xonuss
 - [ ] order & test pcb
 - [ ] create firmwarre
 - [ ] order & test case
+- [ ] create HS & EC pcbs (work-in-progress)
 
 ## Disclaimer
 
