@@ -18,9 +18,10 @@ WIP, design by xonuss
 
 ## Todo
 
-- [ ] order & test pcb
-- [ ] create firmwarre
-- [ ] order & test case
+- [X] order & test pcb
+- [X] create firmware
+- [X] order & test case
+- [ ] revise mx pcb
 - [ ] create HS & EC pcbs (work-in-progress)
 
 ## Disclaimer
