@@ -2102,9 +2102,6 @@
   (junction (at 199.39 38.1) (diameter 0) (color 0 0 0 0)
     (uuid 93b71a18-44c8-4012-8100-4f27cfd59e72)
   )
-  (junction (at 110.49 110.49) (diameter 0) (color 0 0 0 0)
-    (uuid 96823bc6-36a0-409f-82f3-60ec5ebd6904)
-  )
   (junction (at 219.075 213.36) (diameter 0) (color 0 0 0 0)
     (uuid 97df4b97-05ee-45ca-8fd1-167634cbecb7)
   )
@@ -2188,9 +2185,6 @@
   )
   (junction (at 126.365 110.49) (diameter 0) (color 0 0 0 0)
     (uuid c6b339a3-915a-4261-881a-275ab2e060fc)
-  )
-  (junction (at 110.49 115.57) (diameter 0) (color 0 0 0 0)
-    (uuid c7f89010-0d12-44bc-97c1-511d928be907)
   )
   (junction (at 224.155 200.66) (diameter 0) (color 0 0 0 0)
     (uuid cb340cb6-8cc4-4c1d-8457-028f6bbe4c8a)
@@ -2521,10 +2515,6 @@
     (stroke (width 0) (type default))
     (uuid 56334d63-b934-45a2-b31e-8651ae68fef8)
   )
-  (wire (pts (xy 104.14 110.49) (xy 110.49 110.49))
-    (stroke (width 0) (type default))
-    (uuid 57cefe9b-5a67-4dff-8939-3be1616462d0)
-  )
   (wire (pts (xy 193.675 172.72) (xy 193.675 178.435))
     (stroke (width 0) (type default))
     (uuid 59a35b69-a0c6-4339-924c-9c0dfc6a6da9)
@@ -2764,10 +2754,6 @@
   (wire (pts (xy 85.09 188.595) (xy 97.79 188.595))
     (stroke (width 0) (type default))
     (uuid b5413ba5-19db-42c5-a742-0be67216e83f)
-  )
-  (wire (pts (xy 104.14 115.57) (xy 110.49 115.57))
-    (stroke (width 0) (type default))
-    (uuid b6e1afd4-be79-495f-be83-085dd8bcc6c3)
   )
   (wire (pts (xy 148.59 236.22) (xy 153.67 236.22))
     (stroke (width 0) (type default))
@@ -3389,7 +3375,7 @@
   (symbol (lib_id "Device:D_Small") (at 186.055 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0158be74-1a32-49ef-bd4c-33b638c1ecbd)
-    (property "Reference" "D43" (at 187.96 238.125 90)
+    (property "Reference" "D44" (at 187.96 238.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 187.96 240.665 90)
@@ -3412,7 +3398,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "D43") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
@@ -3421,7 +3407,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 226.06 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0307ec04-a11b-457b-a2a7-4c357ae346c5)
-    (property "Reference" "MX51" (at 226.06 227.33 0)
+    (property "Reference" "MX55" (at 226.06 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 226.06 229.87 0)
@@ -3438,7 +3424,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX51") (unit 1)
+          (reference "MX55") (unit 1)
         )
       )
     )
@@ -3447,7 +3433,7 @@
   (symbol (lib_id "Device:C_Small") (at 129.54 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 049a0cb0-7f02-4ad6-bdc8-dd86bf7781b1)
-    (property "Reference" "C7" (at 128.27 108.585 0)
+    (property "Reference" "C6" (at 128.27 108.585 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 127 117.475 0)
@@ -3464,7 +3450,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C7") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -3473,7 +3459,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 137.795 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 06f39f1b-e573-4dd9-8f13-fda9cb1add97)
-    (property "Reference" "MX53" (at 136.525 227.33 0)
+    (property "Reference" "MX46" (at 136.525 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 137.795 229.87 0)
@@ -3490,7 +3476,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX53") (unit 1)
+          (reference "MX46") (unit 1)
         )
       )
     )
@@ -3511,9 +3497,6 @@
     (property "Datasheet" "~" (at 43.18 144.145 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C307331" (at 43.18 144.145 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
     (pin "1" (uuid eb134deb-48f5-43dd-9bff-872bde275c9f))
     (pin "2" (uuid 90bc1304-47d4-4025-b196-2e1ff3e27653))
     (instances
@@ -3529,7 +3512,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C13") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -3620,7 +3603,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "SW2") (unit 1)
+          (reference "SW1") (unit 1)
         )
       )
     )
@@ -3661,7 +3644,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 82.55 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 152b1320-8b8a-4b5d-9736-29436716693d)
-    (property "Reference" "MX37" (at 82.55 229.87 0)
+    (property "Reference" "MX39" (at 82.55 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 82.55 229.87 0)
@@ -3678,7 +3661,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX37") (unit 1)
+          (reference "MX39") (unit 1)
         )
       )
     )
@@ -3745,7 +3728,7 @@
   (symbol (lib_id "Device:D_Small") (at 198.755 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17b84d7e-a1ab-4e14-84d0-771d9acd94eb)
-    (property "Reference" "D44" (at 200.66 238.125 90)
+    (property "Reference" "D45" (at 200.66 238.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 200.66 240.665 90)
@@ -3768,7 +3751,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "D44") (unit 1)
+          (reference "D45") (unit 1)
         )
       )
     )
@@ -3787,9 +3770,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 130.81 83.185 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "LCSC" "C52923" (at 130.81 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 066a3ade-4349-443a-a4e4-52cd05489114))
@@ -3863,7 +3843,7 @@
   (symbol (lib_id "MCU_ST_STM32F0:STM32F072C8Tx") (at 196.85 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22ab5273-74fb-42a9-b8c7-9ee1869cc021)
-    (property "Reference" "U3" (at 201.3459 117.475 0)
+    (property "Reference" "U2" (at 201.3459 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "STM32F072C8Tx" (at 201.3459 120.015 0)
@@ -3926,7 +3906,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "U3") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -3999,7 +3979,7 @@
   (symbol (lib_id "Device:D_Small") (at 224.155 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 25920d80-4aa6-4166-b80e-388cb2a14cc1)
-    (property "Reference" "D46" (at 226.06 238.125 90)
+    (property "Reference" "D47" (at 226.06 238.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 226.06 240.665 90)
@@ -4022,7 +4002,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "D46") (unit 1)
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -4031,7 +4011,7 @@
   (symbol (lib_id "power:+3V3") (at 199.39 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 26ca5266-1401-4b72-bfce-b60cb49968ee)
-    (property "Reference" "#PWR011" (at 199.39 41.91 0)
+    (property "Reference" "#PWR04" (at 199.39 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 199.39 34.925 0)
@@ -4047,7 +4027,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR04") (unit 1)
         )
       )
     )
@@ -4056,7 +4036,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 227.33 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 27bb74bc-887e-4c70-8c93-a44b6169b7db)
-    (property "Reference" "MX47" (at 227.33 209.55 0)
+    (property "Reference" "MX38" (at 227.33 209.55 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 227.33 212.09 0)
@@ -4073,7 +4053,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX47") (unit 1)
+          (reference "MX38") (unit 1)
         )
       )
     )
@@ -4082,7 +4062,7 @@
   (symbol (lib_id "Device:D_Small") (at 211.455 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2b46f042-720a-4279-9075-da08f1bf415b)
-    (property "Reference" "D45" (at 213.36 238.125 90)
+    (property "Reference" "D46" (at 213.36 238.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 213.36 240.665 90)
@@ -4105,7 +4085,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "D45") (unit 1)
+          (reference "D46") (unit 1)
         )
       )
     )
@@ -4150,9 +4130,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 69.85 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "LCSC" "C25905" (at 69.85 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 6cd2cba3-a359-444d-b705-f5652e1765a8))
@@ -4216,9 +4193,6 @@
     (property "Datasheet" "~" (at 110.49 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C52923" (at 110.49 83.185 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
     (pin "1" (uuid 07e6526a-d8ea-4462-b3bb-e1a72f65650f))
     (pin "2" (uuid 17c40709-95cd-44b9-8db9-3f42fddbf604))
     (instances
@@ -4238,7 +4212,7 @@
   (symbol (lib_name "GND_1") (lib_id "power:GND") (at 120.015 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 307f4c00-d75f-4ce4-a898-69a2fa2fc797)
-    (property "Reference" "#PWR07" (at 120.015 121.92 0)
+    (property "Reference" "#PWR015" (at 120.015 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 120.015 120.015 0)
@@ -4254,7 +4228,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR07") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -4263,7 +4237,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 174.625 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 321301dc-b898-45f2-9b14-0d6a61938a65)
-    (property "Reference" "S2" (at 180.975 258.318 0)
+    (property "Reference" "S4" (at 180.975 258.318 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "225" (at 180.975 260.858 0)
@@ -4278,7 +4252,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "S2") (unit 1)
+          (reference "S4") (unit 1)
         )
       )
     )
@@ -4287,7 +4261,7 @@
   (symbol (lib_name "GND_4") (lib_id "power:GND") (at 40.64 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 34d0398f-2c09-4983-943a-70080fe29642)
-    (property "Reference" "#PWR013" (at 40.64 86.36 0)
+    (property "Reference" "#PWR011" (at 40.64 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 40.64 85.09 0)
@@ -4303,7 +4277,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -4312,7 +4286,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 107.95 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 351c35c4-5d92-4269-9598-6963d35e8938)
-    (property "Reference" "MX39" (at 107.95 229.87 0)
+    (property "Reference" "MX43" (at 107.95 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 107.95 229.87 0)
@@ -4329,7 +4303,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX39") (unit 1)
+          (reference "MX43") (unit 1)
         )
       )
     )
@@ -4391,7 +4365,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR01") (unit 1)
+          (reference "#PWR05") (unit 1)
         )
       )
     )
@@ -4485,7 +4459,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR08") (unit 1)
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -4547,7 +4521,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -4703,7 +4677,7 @@
   (symbol (lib_id "Device:D_Small") (at 148.59 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 42a653c5-8ba8-462f-8445-65c09ea5102a)
-    (property "Reference" "D40" (at 150.495 238.125 90)
+    (property "Reference" "D41" (at 150.495 238.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 150.495 240.665 90)
@@ -4726,7 +4700,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "D40") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -4735,7 +4709,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 100.33 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 45019653-b23d-4543-b9b1-a10a385c251c)
-    (property "Reference" "MX52" (at 100.33 227.33 0)
+    (property "Reference" "MX42" (at 100.33 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 100.33 229.87 0)
@@ -4752,7 +4726,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX52") (unit 1)
+          (reference "MX42") (unit 1)
         )
       )
     )
@@ -4793,7 +4767,7 @@
   (symbol (lib_id "Device:C_Small") (at 116.84 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4b82850a-d51a-438d-aa1f-45610cbb2cec)
-    (property "Reference" "C5" (at 115.57 108.585 0)
+    (property "Reference" "C4" (at 115.57 108.585 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 113.03 117.475 0)
@@ -4810,7 +4784,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C5") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -4903,7 +4877,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -4935,36 +4909,10 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 104.14 113.03 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 533edfdf-c477-45e5-af1b-9f3c726e4411)
-    (property "Reference" "C3" (at 102.87 108.585 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "4.7uF" (at 101.6 117.475 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 104.14 113.03 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 104.14 113.03 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 2cfd71e4-d534-40b6-a907-24fa597fd1ab))
-    (pin "2" (uuid 7083354f-3619-4b3e-ab04-81a1638ab198))
-    (instances
-      (project "forti"
-        (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C3") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+3V3") (at 126.365 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5370591e-39e2-458a-9e3c-be2fec4b8d77)
-    (property "Reference" "#PWR06" (at 126.365 114.3 0)
+    (property "Reference" "#PWR014" (at 126.365 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 126.365 106.68 0)
@@ -4980,7 +4928,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR06") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
@@ -4989,7 +4937,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 143.51 259.715 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 53e1e6f2-15b1-420b-8cf3-540585a37a0c)
-    (property "Reference" "S3" (at 149.86 258.953 0)
+    (property "Reference" "S5" (at 149.86 258.953 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "275" (at 149.86 261.493 0)
@@ -5004,7 +4952,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "S3") (unit 1)
+          (reference "S5") (unit 1)
         )
       )
     )
@@ -5013,7 +4961,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 208.915 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54678850-6b2e-4063-8912-7da7ede283da)
-    (property "Reference" "MX45" (at 208.915 229.87 0)
+    (property "Reference" "MX52" (at 208.915 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 208.915 230.505 0)
@@ -5030,7 +4978,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX45") (unit 1)
+          (reference "MX52") (unit 1)
         )
       )
     )
@@ -5092,7 +5040,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR06") (unit 1)
         )
       )
     )
@@ -5122,7 +5070,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR09") (unit 1)
         )
       )
     )
@@ -5221,7 +5169,7 @@
   (symbol (lib_id "Device:C_Small") (at 142.24 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5e2c3afd-86eb-4c42-bcd2-8e2d2dfe3d25)
-    (property "Reference" "C9" (at 140.97 108.585 0)
+    (property "Reference" "C8" (at 140.97 108.585 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 139.7 117.475 0)
@@ -5238,7 +5186,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C9") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -5279,7 +5227,7 @@
   (symbol (lib_id "Device:D_Small") (at 135.89 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ef00462-428f-40cb-b161-1bdbe0913009)
-    (property "Reference" "D41" (at 138.43 238.125 90)
+    (property "Reference" "D40" (at 138.43 238.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 138.43 240.665 90)
@@ -5302,7 +5250,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "D41") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -5332,7 +5280,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR08") (unit 1)
         )
       )
     )
@@ -5413,7 +5361,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "J2") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -5544,7 +5492,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 95.25 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b2d86e6-3192-4c31-b065-e30d230ba2d0)
-    (property "Reference" "MX38" (at 95.25 229.87 0)
+    (property "Reference" "MX41" (at 95.25 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 95.25 229.87 0)
@@ -5561,7 +5509,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX38") (unit 1)
+          (reference "MX41") (unit 1)
         )
       )
     )
@@ -5570,10 +5518,10 @@
   (symbol (lib_id "Device:C_Small") (at 110.49 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6cad9266-08cf-441e-b99b-365f9dd58189)
-    (property "Reference" "C4" (at 109.22 108.585 0)
+    (property "Reference" "C3" (at 109.22 108.585 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1uF" (at 107.95 117.475 0)
+    (property "Value" "10uF" (at 107.95 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 110.49 113.03 0)
@@ -5587,7 +5535,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C4") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -5718,7 +5666,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "R6") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -5727,7 +5675,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 221.615 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7a9e8c5f-9aa1-4026-96a6-50c701223334)
-    (property "Reference" "MX36" (at 221.615 209.55 0)
+    (property "Reference" "MX37" (at 221.615 209.55 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 221.615 212.09 0)
@@ -5744,7 +5692,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX36") (unit 1)
+          (reference "MX37") (unit 1)
         )
       )
     )
@@ -5779,7 +5727,7 @@
   (symbol (lib_id "Device:D_Small") (at 173.355 238.76 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b5f59d2-9c80-4990-99f0-6f86a85e8ec8)
-    (property "Reference" "D47" (at 175.26 238.125 90)
+    (property "Reference" "D43" (at 175.26 238.125 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "D_Small" (at 175.26 240.665 90)
@@ -5802,7 +5750,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "D47") (unit 1)
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -5869,7 +5817,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 143.51 251.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7dcf6d7c-a6fc-45fc-bc18-b51a2a23a423)
-    (property "Reference" "S4" (at 149.86 250.698 0)
+    (property "Reference" "S1" (at 149.86 250.698 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "225" (at 149.86 253.238 0)
@@ -5884,7 +5832,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "S4") (unit 1)
+          (reference "S1") (unit 1)
         )
       )
     )
@@ -5925,7 +5873,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 55.245 216.535 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 81242e4c-2919-4883-b02e-f55e4336c77b)
-    (property "Reference" "shift2.25" (at 60.96 217.043 0)
+    (property "Reference" "shift2.2" (at 60.96 217.043 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX_stab" (at 60.96 218.313 0)
@@ -5940,7 +5888,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "shift2.25") (unit 1)
+          (reference "shift2.2") (unit 1)
         )
       )
     )
@@ -5949,7 +5897,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 231.775 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82fada27-7364-4d18-b1e3-da651b5fd02d)
-    (property "Reference" "MXshift2.75" (at 231.775 210.185 0)
+    (property "Reference" "MXshift2.2" (at 231.775 210.185 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 231.775 212.725 0)
@@ -5966,7 +5914,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MXshift2.75") (unit 1)
+          (reference "MXshift2.2") (unit 1)
         )
       )
     )
@@ -6086,7 +6034,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR09") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -6179,7 +6127,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 133.35 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cb4d1d2-3e35-4222-9621-67fa34d92ad7)
-    (property "Reference" "MX41" (at 133.35 229.87 0)
+    (property "Reference" "MX45" (at 133.35 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 133.35 229.87 0)
@@ -6196,7 +6144,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX41") (unit 1)
+          (reference "MX45") (unit 1)
         )
       )
     )
@@ -6321,7 +6269,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 158.75 252.095 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92541f0b-e591-4700-bf56-0c8be20ec082)
-    (property "Reference" "S1" (at 165.1 251.333 0)
+    (property "Reference" "S2" (at 165.1 251.333 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "7" (at 165.1 253.873 0)
@@ -6336,7 +6284,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "S1") (unit 1)
+          (reference "S2") (unit 1)
         )
       )
     )
@@ -6461,7 +6409,7 @@
   (symbol (lib_id "Device:C_Small") (at 135.89 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ce6074a-12ef-4078-8d62-0b3add39033b)
-    (property "Reference" "C8" (at 134.62 108.585 0)
+    (property "Reference" "C7" (at 134.62 108.585 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 133.35 117.475 0)
@@ -6478,7 +6426,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C8") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -6508,7 +6456,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -6575,7 +6523,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 112.395 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a01fb333-eee2-47d3-b9a1-ef841208217a)
-    (property "Reference" "MX49" (at 112.395 227.33 0)
+    (property "Reference" "MX44" (at 112.395 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 112.395 229.87 0)
@@ -6592,7 +6540,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX49") (unit 1)
+          (reference "MX44") (unit 1)
         )
       )
     )
@@ -6601,7 +6549,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 72.39 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a3549e74-96c1-4db9-9c74-4f9fed898490)
-    (property "Reference" "MXshift2.25" (at 72.39 210.185 0)
+    (property "Reference" "MXshift2.1" (at 72.39 210.185 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 72.39 212.725 0)
@@ -6618,7 +6566,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MXshift2.25") (unit 1)
+          (reference "MXshift2.1") (unit 1)
         )
       )
     )
@@ -6653,7 +6601,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "U2") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
@@ -6662,7 +6610,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 221.615 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a80bbab3-6763-499b-b599-2f5693c2257e)
-    (property "Reference" "MX46" (at 221.615 229.87 0)
+    (property "Reference" "MX54" (at 221.615 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 221.615 230.505 0)
@@ -6679,7 +6627,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX46") (unit 1)
+          (reference "MX54") (unit 1)
         )
       )
     )
@@ -6714,7 +6662,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 213.36 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a9982fdf-8508-4a6e-8e52-c3fa52093b49)
-    (property "Reference" "MX40" (at 214.63 209.55 0)
+    (property "Reference" "MX36" (at 214.63 209.55 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 213.36 212.09 0)
@@ -6731,7 +6679,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX40") (unit 1)
+          (reference "MX36") (unit 1)
         )
       )
     )
@@ -6798,7 +6746,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 213.36 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid acb5682a-4024-46a4-995b-3e19d3e3ce2d)
-    (property "Reference" "MX55" (at 213.36 227.33 0)
+    (property "Reference" "MX53" (at 213.36 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 213.36 229.87 0)
@@ -6815,7 +6763,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX55") (unit 1)
+          (reference "MX53") (unit 1)
         )
       )
     )
@@ -6956,7 +6904,7 @@
   (symbol (lib_id "Device:C_Small") (at 123.19 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b41fbee9-5317-4842-9c28-7a109ac01c94)
-    (property "Reference" "C6" (at 121.92 108.585 0)
+    (property "Reference" "C5" (at 121.92 108.585 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 121.285 117.475 0)
@@ -6973,7 +6921,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "C6") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -6982,7 +6930,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 231.775 198.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b852d47e-f7f7-44f0-a3dd-86a681606a00)
-    (property "Reference" "MXenter2.25" (at 231.775 192.405 0)
+    (property "Reference" "MXenter2.1" (at 231.775 192.405 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 231.775 194.945 0)
@@ -6999,7 +6947,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MXenter2.25") (unit 1)
+          (reference "MXenter2.1") (unit 1)
         )
       )
     )
@@ -7008,7 +6956,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 170.815 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b8b16677-0be8-48fe-bdd4-d3e7ca697cec)
-    (property "Reference" "MXsplit2.25" (at 168.91 226.06 0)
+    (property "Reference" "MXsplit2.2" (at 168.91 226.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 170.815 230.505 0)
@@ -7025,7 +6973,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MXsplit2.25") (unit 1)
+          (reference "MXsplit2.2") (unit 1)
         )
       )
     )
@@ -7070,9 +7018,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 69.85 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "LCSC" "C25905" (at 69.85 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 43504bd0-7b18-4d0d-93cd-a082d4c83fd6))
@@ -7126,7 +7071,7 @@
   (symbol (lib_name "GND_2") (lib_id "power:GND") (at 198.12 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c0c8c741-86e3-4eec-8152-a9cf4df4ce58)
-    (property "Reference" "#PWR012" (at 198.12 123.19 0)
+    (property "Reference" "#PWR016" (at 198.12 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 198.12 121.285 0)
@@ -7142,7 +7087,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -7151,7 +7096,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 245.745 215.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c3e34919-de72-4985-83ae-f44e9f9f78c6)
-    (property "Reference" "shift2.75" (at 251.46 216.408 0)
+    (property "Reference" "shift2.1" (at 251.46 216.408 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX_stab" (at 251.46 217.678 0)
@@ -7166,7 +7111,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "shift2.75") (unit 1)
+          (reference "shift2.1") (unit 1)
         )
       )
     )
@@ -7196,7 +7141,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -7205,7 +7150,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 183.515 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c81f4761-4ddb-45fb-aca9-04c50499ae86)
-    (property "Reference" "MX43" (at 183.515 229.87 0)
+    (property "Reference" "MX48" (at 183.515 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 183.515 230.505 0)
@@ -7222,7 +7167,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX43") (unit 1)
+          (reference "MX48") (unit 1)
         )
       )
     )
@@ -7388,7 +7333,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR05") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -7397,7 +7342,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 174.625 252.095 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d3ec0ce1-5701-4952-9888-5f4a6515d6ad)
-    (property "Reference" "S5" (at 180.975 251.333 0)
+    (property "Reference" "S3" (at 180.975 251.333 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "275" (at 180.975 253.873 0)
@@ -7412,7 +7357,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "S5") (unit 1)
+          (reference "S3") (unit 1)
         )
       )
     )
@@ -7447,7 +7392,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 86.995 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d502d34e-e889-425c-9cd9-c4fea118ac0b)
-    (property "Reference" "MX48" (at 86.995 227.33 0)
+    (property "Reference" "MX40" (at 86.995 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 86.995 229.87 0)
@@ -7464,7 +7409,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX48") (unit 1)
+          (reference "MX40") (unit 1)
         )
       )
     )
@@ -7525,7 +7470,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 196.215 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8d4b4d8-0dda-44a7-a19c-69eeb4f3dca6)
-    (property "Reference" "MX44" (at 196.215 229.87 0)
+    (property "Reference" "MX50" (at 196.215 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 196.215 230.505 0)
@@ -7542,7 +7487,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX44") (unit 1)
+          (reference "MX50") (unit 1)
         )
       )
     )
@@ -7551,7 +7496,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 158.115 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db9e8568-b5d0-4f83-a381-26bb5054446b)
-    (property "Reference" "MX42" (at 158.115 229.87 0)
+    (property "Reference" "MX47" (at 158.115 229.87 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 158.115 230.505 0)
@@ -7568,7 +7513,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX42") (unit 1)
+          (reference "MX47") (unit 1)
         )
       )
     )
@@ -7661,7 +7606,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -7702,7 +7647,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_stab") (at 245.745 198.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e4cdb287-f0c6-49de-b1cc-7b64ce8a9fd6)
-    (property "Reference" "enter2.25" (at 251.46 198.628 0)
+    (property "Reference" "enter2.1" (at 251.46 198.628 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MX_stab" (at 251.46 199.898 0)
@@ -7717,7 +7662,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "enter2.25") (unit 1)
+          (reference "enter2.1") (unit 1)
         )
       )
     )
@@ -7803,7 +7748,7 @@
       )
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -7870,7 +7815,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 200.66 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f410e373-7a84-4f90-9c41-4de7f098d9a5)
-    (property "Reference" "MX50" (at 200.66 227.33 0)
+    (property "Reference" "MX51" (at 200.66 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 200.66 229.87 0)
@@ -7887,7 +7832,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX50") (unit 1)
+          (reference "MX51") (unit 1)
         )
       )
     )
@@ -7896,7 +7841,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 146.05 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f5ac3513-4293-48e5-b9af-6767f1c3a4e6)
-    (property "Reference" "MXsplit2.75" (at 146.05 226.06 0)
+    (property "Reference" "MXsplit2.1" (at 146.05 226.06 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 146.05 230.505 0)
@@ -7913,7 +7858,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MXsplit2.75") (unit 1)
+          (reference "MXsplit2.1") (unit 1)
         )
       )
     )
@@ -7974,7 +7919,7 @@
   (symbol (lib_id "PCM_marbastlib-mx:MX_SW_HS") (at 187.96 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fff68260-63d3-4a34-89d5-c13ecf2a4a1c)
-    (property "Reference" "MX54" (at 187.96 227.33 0)
+    (property "Reference" "MX49" (at 187.96 227.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MX_SW_HS" (at 187.96 229.87 0)
@@ -7991,7 +7936,7 @@
     (instances
       (project "forti"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
-          (reference "MX54") (unit 1)
+          (reference "MX49") (unit 1)
         )
       )
     )
