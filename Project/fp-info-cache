@@ -1,4 +1,4 @@
-23003283593741443
+23004998790823574
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -95164,6 +95164,13 @@ connector JST ZH
 0
 15
 14
+cipulot_parts
+SK6803-MINI-E
+
+
+0
+4
+4
 cipulot_parts
 SK6812-MINI-E
 
