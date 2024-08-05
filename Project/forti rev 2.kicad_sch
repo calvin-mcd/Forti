@@ -3338,7 +3338,7 @@
     (pin "1" (uuid aef847a7-ddd9-416f-a110-5290438f3ac9))
     (pin "2" (uuid b6b59203-57e8-4f92-9a23-eda5be2d76f4))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXISO1") (unit 1)
         )
@@ -3364,7 +3364,7 @@
     (pin "1" (uuid e1ef6a6a-31ff-4b78-a4b1-0901c765a2b7))
     (pin "2" (uuid ecef5c81-6695-45ed-98ef-ab97f69b3f02))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX33") (unit 1)
         )
@@ -3396,7 +3396,7 @@
     (pin "1" (uuid af660659-f25a-416a-80db-94ec8128da91))
     (pin "2" (uuid cf7007f8-ebe5-4df9-819d-7ad7f96a6bd9))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D44") (unit 1)
         )
@@ -3422,7 +3422,7 @@
     (pin "1" (uuid c1d13bfb-c466-43d1-8aeb-1d2215023451))
     (pin "2" (uuid eda7cea4-09ee-4996-8f6f-b89a80f1d5d5))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX55") (unit 1)
         )
@@ -3448,7 +3448,7 @@
     (pin "1" (uuid a470f2db-9e90-4e92-abba-4254c3742f46))
     (pin "2" (uuid 38a97e20-372d-43ac-a7cf-d43dccd3a73e))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C6") (unit 1)
         )
@@ -3474,7 +3474,7 @@
     (pin "1" (uuid ff067e52-57d8-4b6d-9e45-a0814937d2c6))
     (pin "2" (uuid 93b39b5a-ab5d-4a5e-ba38-0e18f1e82534))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX46") (unit 1)
         )
@@ -3510,7 +3510,7 @@
           (reference "C7") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C9") (unit 1)
         )
@@ -3536,7 +3536,7 @@
     (pin "1" (uuid f6577cd8-a5d4-4089-94a9-03b9321d6a3a))
     (pin "2" (uuid 63f5c3ce-b07f-47a6-861c-2c487e1068e5))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX22") (unit 1)
         )
@@ -3562,7 +3562,7 @@
     (pin "1" (uuid 08311b7d-7789-4965-b9da-c308c0938b61))
     (pin "2" (uuid 23638ca9-0f3c-4665-ba8a-6a64110d0512))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX23") (unit 1)
         )
@@ -3601,7 +3601,7 @@
           (reference "SW37") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "SW1") (unit 1)
         )
@@ -3633,7 +3633,7 @@
     (pin "1" (uuid 5b897252-6440-439f-9e8e-a9869da90f0e))
     (pin "2" (uuid 4ed7bd11-89e0-43a6-904a-63396dc9cbb4))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D1") (unit 1)
         )
@@ -3659,7 +3659,7 @@
     (pin "1" (uuid 35b804f5-21d1-4620-bdb0-b999ae59156f))
     (pin "2" (uuid ba15b45c-4882-435d-aad0-2f7cd39fae90))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX39") (unit 1)
         )
@@ -3685,7 +3685,7 @@
     (pin "1" (uuid 0b834883-4678-4be4-8733-6487a2639c57))
     (pin "2" (uuid 4913329b-d170-4128-ae89-6b2fb63d8644))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX11") (unit 1)
         )
@@ -3717,7 +3717,7 @@
     (pin "1" (uuid 7c4905fc-8a9f-4d86-8b79-00be9002ec62))
     (pin "2" (uuid 798a4613-658d-4528-be17-32161e708494))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D18") (unit 1)
         )
@@ -3749,7 +3749,7 @@
     (pin "1" (uuid 351c691a-c7bf-4cb6-a407-21d6ca8dd5c9))
     (pin "2" (uuid f7dc8e5d-f2e4-4bbb-9637-9d5e5293cdf7))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D45") (unit 1)
         )
@@ -3780,7 +3780,7 @@
           (reference "C17") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C2") (unit 1)
         )
@@ -3806,7 +3806,7 @@
     (pin "1" (uuid f9db63a9-46d8-487b-9508-ae65fe331e4d))
     (pin "2" (uuid cc137537-3a50-43f8-aab1-b32928ec6e24))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX27") (unit 1)
         )
@@ -3832,7 +3832,7 @@
     (pin "1" (uuid d074d560-9a96-466f-ae47-c8b25bae72b5))
     (pin "2" (uuid 645c4497-f409-4535-8948-8e0b8f96ad4c))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX5") (unit 1)
         )
@@ -3904,7 +3904,7 @@
     (pin "8" (uuid 2d48cfe2-f52d-4f2a-9621-4945069d4239))
     (pin "9" (uuid e9a61eac-3467-4955-bab0-0272b00201ca))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "U2") (unit 1)
         )
@@ -3936,7 +3936,7 @@
     (pin "1" (uuid b3ef17cc-9b26-4fc6-b2d5-5afc351851ec))
     (pin "2" (uuid 6a157e0f-bfb1-4ed0-8136-d1d5dcef111d))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D25") (unit 1)
         )
@@ -3968,7 +3968,7 @@
     (pin "1" (uuid 1b817820-99ae-4991-ab1e-8f6d1d3ff6be))
     (pin "2" (uuid 28fab1f8-aab6-4120-8e26-21f0d8555d30))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D29") (unit 1)
         )
@@ -4000,7 +4000,7 @@
     (pin "1" (uuid 0958f4db-0d00-4224-a855-dc3d2acba0f1))
     (pin "2" (uuid 21c83eab-a012-4300-a00d-f37d0688d4c7))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D47") (unit 1)
         )
@@ -4025,7 +4025,7 @@
     )
     (pin "1" (uuid efc57f7c-9b27-4717-b5de-a6db07c10268))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR04") (unit 1)
         )
@@ -4051,7 +4051,7 @@
     (pin "1" (uuid 7ce992ce-c0ae-4359-aaef-b67f0ad204a0))
     (pin "2" (uuid 3dc38d94-53e3-4482-8d6b-21b7d34843db))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX38") (unit 1)
         )
@@ -4083,7 +4083,7 @@
     (pin "1" (uuid c1febaca-7d63-4a49-95d4-dd34bd546940))
     (pin "2" (uuid df27393f-df04-4282-abc1-1d5cd0a165ea))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D46") (unit 1)
         )
@@ -4109,7 +4109,7 @@
     (pin "1" (uuid 2f0c274c-5741-4e03-9d33-4660e1d2ddfb))
     (pin "2" (uuid 4291a37a-0abe-4ae3-909f-e3aec9b6cb37))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX17") (unit 1)
         )
@@ -4140,7 +4140,7 @@
           (reference "R3") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "R1") (unit 1)
         )
@@ -4170,7 +4170,7 @@
           (reference "#FLG01") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#FLG01") (unit 1)
         )
@@ -4201,7 +4201,7 @@
           (reference "C16") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C1") (unit 1)
         )
@@ -4226,7 +4226,7 @@
     )
     (pin "1" (uuid 1a9c8c92-1a63-4402-ae82-7b9c294855a2))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR015") (unit 1)
         )
@@ -4243,14 +4243,14 @@
     (property "Value" "225" (at 180.975 260.858 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u" (at 174.625 259.08 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u" (at 174.625 259.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 174.625 259.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "S4") (unit 1)
         )
@@ -4275,7 +4275,7 @@
     )
     (pin "1" (uuid c5c634f5-1ca6-4a52-856b-e2f8b934ec6c))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR011") (unit 1)
         )
@@ -4301,7 +4301,7 @@
     (pin "1" (uuid 02d6a8b4-a725-43d1-b22b-64de0bc0d9d2))
     (pin "2" (uuid c4691d39-fc6c-4105-b295-23573ce97ee9))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX43") (unit 1)
         )
@@ -4333,7 +4333,7 @@
     (pin "1" (uuid cb74db64-ff8e-495a-adec-6ff15461ae69))
     (pin "2" (uuid 3b4377b2-84a8-4c17-9743-85f4a8b2dbf8))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D38") (unit 1)
         )
@@ -4363,7 +4363,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR05") (unit 1)
         )
@@ -4395,7 +4395,7 @@
     (pin "1" (uuid a0b0d19d-9307-46d2-83ec-2fb537c00e03))
     (pin "2" (uuid 35d70d9c-ea0f-46c1-a8d1-e191825219a5))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D6") (unit 1)
         )
@@ -4427,7 +4427,7 @@
     (pin "1" (uuid feb0b877-f09f-486f-b421-915a19d55846))
     (pin "2" (uuid 33a9ec36-a93a-4b51-8af1-0c76842aef2f))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D7") (unit 1)
         )
@@ -4457,7 +4457,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR01") (unit 1)
         )
@@ -4489,7 +4489,7 @@
     (pin "1" (uuid 887de26d-17d8-44ba-a575-f89fef4409ad))
     (pin "2" (uuid 27165646-7597-4e91-a3c4-94be26784c3e))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D20") (unit 1)
         )
@@ -4519,7 +4519,7 @@
           (reference "#PWR024") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR010") (unit 1)
         )
@@ -4550,7 +4550,7 @@
           (reference "D_PWR1") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D_PWR1") (unit 1)
         )
@@ -4582,7 +4582,7 @@
     (pin "1" (uuid 6d08fef2-c1e4-442e-9f90-ecc39f4c015e))
     (pin "2" (uuid c7cd327f-b9a4-48fe-ad5b-7b47d916cb36))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D23") (unit 1)
         )
@@ -4614,7 +4614,7 @@
     (pin "1" (uuid 2822b68a-4dd1-4594-9178-916447182f14))
     (pin "2" (uuid 2e596169-bb2c-4e49-a139-64f5ad53a412))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D42") (unit 1)
         )
@@ -4640,7 +4640,7 @@
     (pin "1" (uuid f9c6ce01-5cc4-4a76-a8c3-eeec8a640f5f))
     (pin "2" (uuid 49e37ecd-dc95-4b34-81fd-5b096c108e81))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX9") (unit 1)
         )
@@ -4666,7 +4666,7 @@
     (pin "1" (uuid 141cbad7-cace-4781-87cd-7626752af054))
     (pin "2" (uuid 3dfc605d-9daf-49ae-bd39-4e2e036378b8))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX26") (unit 1)
         )
@@ -4698,7 +4698,7 @@
     (pin "1" (uuid cbf1af4f-8615-4f0d-b0ea-d4731a27c0f6))
     (pin "2" (uuid baeca1a7-d3ef-49ca-b1c6-013133f363b9))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D41") (unit 1)
         )
@@ -4724,7 +4724,7 @@
     (pin "1" (uuid 677f15ad-4906-4176-aa7c-6577a8be23a6))
     (pin "2" (uuid 51e40379-e871-4a87-8a14-a2beb8d9bab2))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX42") (unit 1)
         )
@@ -4756,7 +4756,7 @@
     (pin "1" (uuid 2bc693d3-b80f-4740-a717-c33977f7ab9b))
     (pin "2" (uuid b34021e3-6a27-4551-8d2c-11708fc82f92))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D36") (unit 1)
         )
@@ -4782,7 +4782,7 @@
     (pin "1" (uuid d5779704-d869-45e3-a935-dc624a5049e7))
     (pin "2" (uuid 943e21ea-9cca-4f51-8211-a7ca65e498cf))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C4") (unit 1)
         )
@@ -4814,7 +4814,7 @@
     (pin "1" (uuid e7bef493-d068-43d2-a92f-7aa1478276e7))
     (pin "2" (uuid 0698794d-dfbc-46a0-8ceb-6f6cfa704281))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D9") (unit 1)
         )
@@ -4840,7 +4840,7 @@
     (pin "1" (uuid c0c065f5-4f59-4260-821f-9919ffea5ee6))
     (pin "2" (uuid bc90ba35-88e0-4c1b-a39a-607b66b94c77))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX2") (unit 1)
         )
@@ -4875,7 +4875,7 @@
           (reference "#PWR011") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR017") (unit 1)
         )
@@ -4901,7 +4901,7 @@
     (pin "1" (uuid 013b48ad-3be6-4477-acb9-3786d8abf15e))
     (pin "2" (uuid 26441cca-5fc4-4256-9edf-336f77d5127d))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX29") (unit 1)
         )
@@ -4926,7 +4926,7 @@
     )
     (pin "1" (uuid 76152921-6994-48a3-b068-91b1ed620e4c))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR014") (unit 1)
         )
@@ -4943,14 +4943,14 @@
     (property "Value" "275" (at 149.86 261.493 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.75u" (at 143.51 259.715 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.75u" (at 143.51 259.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 143.51 259.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "S5") (unit 1)
         )
@@ -4976,7 +4976,7 @@
     (pin "1" (uuid b4953321-4acc-4b7f-83c7-1be424d308f2))
     (pin "2" (uuid 8628bc00-0722-4232-a457-a667a42269e1))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX52") (unit 1)
         )
@@ -5008,7 +5008,7 @@
     (pin "1" (uuid 7b15a634-11b3-4f32-bfb7-838e215a122d))
     (pin "2" (uuid 04eafce1-3b20-4499-b5a5-b760167661f8))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D2") (unit 1)
         )
@@ -5038,7 +5038,7 @@
           (reference "#PWR08") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR06") (unit 1)
         )
@@ -5068,7 +5068,7 @@
           (reference "#PWR023") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR09") (unit 1)
         )
@@ -5094,7 +5094,7 @@
     (pin "1" (uuid 89fb7f33-4c93-44e3-8981-9066283ca0ed))
     (pin "2" (uuid a795ed85-7257-4b65-bf58-8d93e8659398))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX35") (unit 1)
         )
@@ -5126,7 +5126,7 @@
     (pin "1" (uuid b82c1962-f708-42b8-8c96-7c9f3c737d56))
     (pin "2" (uuid 0dc37c0e-e8c8-4d21-8a81-859948254998))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D15") (unit 1)
         )
@@ -5158,7 +5158,7 @@
     (pin "1" (uuid fe0464f8-7994-4a72-a247-b99a959ccd56))
     (pin "2" (uuid c0448113-d6c1-4b63-a57f-3670fdb883da))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D26") (unit 1)
         )
@@ -5184,7 +5184,7 @@
     (pin "1" (uuid 3059dbb1-4d96-46b8-896b-c5c01e641a60))
     (pin "2" (uuid c7b4ebe5-adbc-4e10-b590-ef1373aa9038))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C8") (unit 1)
         )
@@ -5216,7 +5216,7 @@
     (pin "1" (uuid 62b89924-7cf2-4dac-ae31-121ff2bfd1a5))
     (pin "2" (uuid 7b03eed7-ca0b-4c77-bab8-33669f40ddf0))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D3") (unit 1)
         )
@@ -5248,7 +5248,7 @@
     (pin "1" (uuid 0367fc46-646e-4d66-8219-71ea1abd3711))
     (pin "2" (uuid e8651617-ade9-43d2-b6b7-ed5b37d236b9))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D40") (unit 1)
         )
@@ -5278,7 +5278,7 @@
           (reference "#PWR012") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR08") (unit 1)
         )
@@ -5310,7 +5310,7 @@
     (pin "1" (uuid 803dfc35-f4b5-46a0-9b92-c2d96665fd3c))
     (pin "2" (uuid 82b297db-d73d-4325-8f55-69fbd10f0bed))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D19") (unit 1)
         )
@@ -5359,7 +5359,7 @@
           (reference "J1") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "J1") (unit 1)
         )
@@ -5385,7 +5385,7 @@
     (pin "1" (uuid f0ce11da-ccee-452c-a9bb-198804c33024))
     (pin "2" (uuid 3f4acefb-62ca-4c0c-b19f-aaf5107a271c))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX19") (unit 1)
         )
@@ -5417,7 +5417,7 @@
     (pin "1" (uuid f9975968-2441-4102-8b0e-70ab0faa9d8e))
     (pin "2" (uuid c680f131-35c7-4c6a-b335-2984db404bb9))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D5") (unit 1)
         )
@@ -5449,7 +5449,7 @@
     (pin "1" (uuid aa7c11e2-3c8d-4ce7-aa4a-49663f4456f1))
     (pin "2" (uuid 085315ed-8c12-4ad5-b40b-fdc864ce881d))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D27") (unit 1)
         )
@@ -5481,7 +5481,7 @@
     (pin "1" (uuid 1f6a1cb7-e33a-41fa-ad40-70df072e0b2a))
     (pin "2" (uuid 6c2d1787-c69f-4741-93ef-4d0f94e00763))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D16") (unit 1)
         )
@@ -5507,7 +5507,7 @@
     (pin "1" (uuid 23588191-d5f4-4c3d-9dcb-12135af726fc))
     (pin "2" (uuid 0178bd6b-81cb-49cb-9b16-09a21fdf2823))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX41") (unit 1)
         )
@@ -5533,7 +5533,7 @@
     (pin "1" (uuid 9a0158ce-d42d-47f5-b3c9-cd03b67708a7))
     (pin "2" (uuid 0f54a46e-34e8-42a1-af39-838bf89c70bc))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C3") (unit 1)
         )
@@ -5565,7 +5565,7 @@
     (pin "1" (uuid 7135ccae-db0c-497a-8dd1-598df2a500fa))
     (pin "2" (uuid 0f3e165b-dea9-4b7d-a268-a24dee932cb9))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D8") (unit 1)
         )
@@ -5599,7 +5599,7 @@
           (reference "F1") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "F1") (unit 1)
         )
@@ -5625,7 +5625,7 @@
     (pin "1" (uuid a544f681-9bd7-425e-a003-4203c66364a1))
     (pin "2" (uuid e1958edf-b303-42bf-a02e-34ac77e0107f))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX7") (unit 1)
         )
@@ -5664,7 +5664,7 @@
           (reference "R3") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "R3") (unit 1)
         )
@@ -5690,7 +5690,7 @@
     (pin "1" (uuid c9b77de8-c9cc-4879-9071-2a8a5a6843ad))
     (pin "2" (uuid 1c9d8e01-1a4b-4c0e-9f2c-06efd4d8f234))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX37") (unit 1)
         )
@@ -5716,7 +5716,7 @@
     (pin "1" (uuid f55c376c-41d2-4e2f-ac72-eeb87490c55c))
     (pin "2" (uuid ba89e154-2a04-489e-8afb-36407847828e))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXsplit2.75(1)1") (unit 1)
         )
@@ -5748,7 +5748,7 @@
     (pin "1" (uuid 535c9553-30d8-4f5f-ac0f-5dc6f00cb0e4))
     (pin "2" (uuid ed550ea5-31bb-4078-ac68-90e0919eecce))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D43") (unit 1)
         )
@@ -5774,7 +5774,7 @@
     (pin "1" (uuid bcb0d10c-25a5-42dd-8975-3ef1e17ea85c))
     (pin "2" (uuid 2a2874c1-e8e4-4bc4-b4bf-23b63881038d))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX3") (unit 1)
         )
@@ -5806,7 +5806,7 @@
     (pin "1" (uuid cec2b006-4b80-4b99-8a5f-b9a5a9967e69))
     (pin "2" (uuid 45071f21-a7e9-4808-a9da-bcc566bc5903))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D30") (unit 1)
         )
@@ -5823,14 +5823,14 @@
     (property "Value" "225" (at 149.86 253.238 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u" (at 143.51 251.46 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u" (at 143.51 251.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 143.51 251.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "S1") (unit 1)
         )
@@ -5862,7 +5862,7 @@
     (pin "1" (uuid 4d5b8714-2761-42bb-8ed2-6bfd0d703ac7))
     (pin "2" (uuid 8996f240-7942-4736-b070-d126b992f992))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D33") (unit 1)
         )
@@ -5879,14 +5879,14 @@
     (property "Value" "MX_stab" (at 60.96 218.313 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u" (at 55.245 216.535 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u" (at 55.245 216.535 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 55.245 216.535 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "shift2.2") (unit 1)
         )
@@ -5912,7 +5912,7 @@
     (pin "1" (uuid 66d06fd8-118c-42be-b72e-10bf0bd2e6e9))
     (pin "2" (uuid f1fff9b8-5fff-4d95-a5e6-6d34e98591a6))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXshift2.2") (unit 1)
         )
@@ -5938,7 +5938,7 @@
     (pin "1" (uuid 73daf0ac-3746-4806-b38f-58178b9f5b5e))
     (pin "2" (uuid 1e5ee222-355d-4ae3-81b8-f7ddf6783cb7))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX1") (unit 1)
         )
@@ -5970,7 +5970,7 @@
     (pin "1" (uuid 96818c55-0bbb-4875-9220-90d5a9ba5c9d))
     (pin "2" (uuid 5bbcb5eb-51cf-40c3-b266-33388f443adf))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D35") (unit 1)
         )
@@ -6002,7 +6002,7 @@
     (pin "1" (uuid 6d8a9ed6-ec6f-4f18-a3de-94a3ada7eb00))
     (pin "2" (uuid 66ba5d59-4fbe-4576-b1e5-801464295e9b))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D17") (unit 1)
         )
@@ -6032,7 +6032,7 @@
           (reference "#PWR09") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR02") (unit 1)
         )
@@ -6064,7 +6064,7 @@
     (pin "1" (uuid cc527fe8-ff08-4c55-a31c-504221dcf270))
     (pin "2" (uuid d3935a27-1a5e-4c22-ac40-e20592e14644))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D31") (unit 1)
         )
@@ -6090,7 +6090,7 @@
     (pin "1" (uuid 68cb08e2-2d84-40cd-8efd-0a68b762d121))
     (pin "2" (uuid 85ad8b76-bb9c-4feb-91a2-e28b5bffa94e))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX13") (unit 1)
         )
@@ -6116,7 +6116,7 @@
     (pin "1" (uuid 9a645d34-5f29-44f4-ac1b-dfddbb6d0c68))
     (pin "2" (uuid 607b9f9c-90c7-45a7-8734-a7c5d9518ac8))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX6") (unit 1)
         )
@@ -6142,7 +6142,7 @@
     (pin "1" (uuid 48caf0bd-e43a-42f3-a49a-bb9fc904094a))
     (pin "2" (uuid 9240c6ed-2d5f-457e-884b-dd47cc45f72a))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX45") (unit 1)
         )
@@ -6168,7 +6168,7 @@
     (pin "1" (uuid eda6ee3a-04bf-4e95-889b-a95080e8a1ae))
     (pin "2" (uuid 275c7f9b-fc92-43d7-865e-a38a541596de))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX20") (unit 1)
         )
@@ -6194,7 +6194,7 @@
     (pin "1" (uuid e09636ad-0722-40dc-93a7-f78308c445b7))
     (pin "2" (uuid f2b26b5b-c63b-4ac2-b988-f736c3269c4a))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX21") (unit 1)
         )
@@ -6226,7 +6226,7 @@
     (pin "1" (uuid 43149d79-e359-4e4f-99c2-98aadc8e638f))
     (pin "2" (uuid b84c63d6-9d6f-4dc1-83fc-6a6876f5a70f))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D12") (unit 1)
         )
@@ -6258,7 +6258,7 @@
     (pin "1" (uuid ece0f759-8450-45ce-9e49-320984bb65bf))
     (pin "2" (uuid 631d0e9c-d964-42d6-98b2-0e1d1bd382e7))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D21") (unit 1)
         )
@@ -6275,14 +6275,14 @@
     (property "Value" "7" (at 165.1 253.873 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_7u" (at 158.75 252.095 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_7u" (at 158.75 252.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 158.75 252.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "S2") (unit 1)
         )
@@ -6314,7 +6314,7 @@
     (pin "1" (uuid 67d75145-deff-4947-93a6-62f0d5aa45f6))
     (pin "2" (uuid 842a109d-bc10-429f-aa24-c39e4aa2811d))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D37") (unit 1)
         )
@@ -6346,7 +6346,7 @@
     (pin "1" (uuid 4b40287c-9934-4559-828a-e85e235e37ef))
     (pin "2" (uuid a70dcc78-9c64-4a90-8c5c-c65ecedce040))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D14") (unit 1)
         )
@@ -6372,7 +6372,7 @@
     (pin "1" (uuid 244d31e9-d81c-46c6-aa35-a23edfd019a5))
     (pin "2" (uuid 5b2be0f5-4bff-4c11-a97b-7667f0caeafe))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX28") (unit 1)
         )
@@ -6398,7 +6398,7 @@
     (pin "1" (uuid 8de05b3f-e44c-4139-bcdc-1ffd793278b3))
     (pin "2" (uuid 1193ee4a-3cd7-4c03-8ae7-0dad04afb15a))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX10") (unit 1)
         )
@@ -6424,7 +6424,7 @@
     (pin "1" (uuid f293df43-e44e-40ab-aebc-587a3e39145d))
     (pin "2" (uuid e4a70d42-9c10-4456-8e9d-c38bb944928b))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C7") (unit 1)
         )
@@ -6454,7 +6454,7 @@
           (reference "#PWR018") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR03") (unit 1)
         )
@@ -6480,7 +6480,7 @@
     (pin "1" (uuid cb20e0a2-1f44-4eaf-92ee-572154d68a14))
     (pin "2" (uuid dcb32f9d-def1-47aa-91f1-959742db970e))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX34") (unit 1)
         )
@@ -6512,7 +6512,7 @@
     (pin "1" (uuid 10592d16-7bdc-4149-aaca-851e9cd014f3))
     (pin "2" (uuid d7630e53-953a-41b8-991e-189b9be820fa))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D13") (unit 1)
         )
@@ -6538,7 +6538,7 @@
     (pin "1" (uuid 86653641-308f-4051-98f7-3c68e4b5effa))
     (pin "2" (uuid 0bbb200d-7766-4e48-b34c-34572510a4bd))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX44") (unit 1)
         )
@@ -6564,7 +6564,7 @@
     (pin "1" (uuid 6aab48a5-efcd-4d29-9d70-865e28a45771))
     (pin "2" (uuid a4a4534b-8576-499a-8528-120194db4242))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXshift2.1") (unit 1)
         )
@@ -6599,7 +6599,7 @@
           (reference "U4") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "U3") (unit 1)
         )
@@ -6625,7 +6625,7 @@
     (pin "1" (uuid ae25d2f9-0f95-4f5f-9fb7-baa0dd3f2774))
     (pin "2" (uuid 967d80e4-04b4-409d-91d5-8a64387f3aa3))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX54") (unit 1)
         )
@@ -6651,7 +6651,7 @@
     (pin "1" (uuid 24b7535c-32ec-4087-a02b-02e960b75e0f))
     (pin "2" (uuid 37e72cf8-d268-4cc1-bce8-f8881fd90424))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX18") (unit 1)
         )
@@ -6677,7 +6677,7 @@
     (pin "1" (uuid a84aa9bb-2f14-4bd9-b420-c9f30a854dd1))
     (pin "2" (uuid a0ef307f-a258-4ce6-8004-35ee2697001b))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX36") (unit 1)
         )
@@ -6703,7 +6703,7 @@
     (pin "1" (uuid a267db78-1ea5-42bc-b959-976a18591ec4))
     (pin "2" (uuid 7beb3938-6295-4f94-bcc9-af4f43ad428c))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX24") (unit 1)
         )
@@ -6735,7 +6735,7 @@
     (pin "1" (uuid 91c64ee0-4140-4fa8-8b4c-109b7cec42d2))
     (pin "2" (uuid 6f1e04fb-548c-412c-9380-eb6809bb10d7))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D22") (unit 1)
         )
@@ -6761,7 +6761,7 @@
     (pin "1" (uuid 5ad37a3e-e091-41bf-ac27-7fa988eeb185))
     (pin "2" (uuid fa65ca09-3524-4247-8e10-d83f5429735c))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX53") (unit 1)
         )
@@ -6791,7 +6791,7 @@
           (reference "#FLG02") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#FLG02") (unit 1)
         )
@@ -6823,7 +6823,7 @@
     (pin "1" (uuid 1f649937-0af8-4232-9b58-2e4d62947fe6))
     (pin "2" (uuid a1abe868-c569-44ca-b4d9-88f47bc87d70))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D24") (unit 1)
         )
@@ -6855,7 +6855,7 @@
     (pin "1" (uuid a53036a7-9cfb-4d10-93fb-1ae8028f4482))
     (pin "2" (uuid 322e5afd-2750-4459-9ccd-bcd7dd80ebb7))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D10") (unit 1)
         )
@@ -6893,7 +6893,7 @@
           (reference "U2") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "U1") (unit 1)
         )
@@ -6919,7 +6919,7 @@
     (pin "1" (uuid 6f36ba0c-2da4-4888-9dbc-8b3d6a4ab7ee))
     (pin "2" (uuid e0951040-a831-48f7-8a18-4cadc1d5de1d))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "C5") (unit 1)
         )
@@ -6945,7 +6945,7 @@
     (pin "1" (uuid 8f5814b9-4c4e-462f-a330-882ca5fba371))
     (pin "2" (uuid ebed88cd-b5ea-4fd5-ac23-99a91c418c09))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXenter2.1") (unit 1)
         )
@@ -6971,7 +6971,7 @@
     (pin "1" (uuid 3147b058-700a-4305-99b5-3049cc81dcf9))
     (pin "2" (uuid 35dee3e3-70c9-4a06-98c9-a91f27700401))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXsplit2.2") (unit 1)
         )
@@ -6997,7 +6997,7 @@
     (pin "1" (uuid 9028c32c-4acd-4ca1-a7a8-f3db4b0a7f73))
     (pin "2" (uuid 614d7116-3647-4098-8048-4f3bc50048a3))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX31") (unit 1)
         )
@@ -7028,7 +7028,7 @@
           (reference "R4") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "R2") (unit 1)
         )
@@ -7060,7 +7060,7 @@
     (pin "1" (uuid 5ada7816-c5cb-458a-baee-83f0b4101e85))
     (pin "2" (uuid 2a8b06b9-d5c2-41c4-81cf-5b32e09fe66c))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D4") (unit 1)
         )
@@ -7085,7 +7085,7 @@
     )
     (pin "1" (uuid 0289925b-63b1-44f4-a0ee-afe5cc3466b3))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR016") (unit 1)
         )
@@ -7102,14 +7102,14 @@
     (property "Value" "MX_stab" (at 251.46 217.678 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.75u" (at 245.745 215.9 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.75u" (at 245.745 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 245.745 215.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "shift2.1") (unit 1)
         )
@@ -7139,7 +7139,7 @@
           (reference "#PWR09") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR013") (unit 1)
         )
@@ -7165,7 +7165,7 @@
     (pin "1" (uuid 0ced0ad1-8c04-4b4f-b8f6-926f3de6f430))
     (pin "2" (uuid 220cf706-1fd2-47b4-bf4a-c4d466b88a36))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX48") (unit 1)
         )
@@ -7191,7 +7191,7 @@
     (pin "1" (uuid ffc06d7b-7602-4343-9fab-323f3461dc97))
     (pin "2" (uuid 7cf2e5ec-526f-4137-9229-3024ec77b4b0))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXcaps1") (unit 1)
         )
@@ -7223,7 +7223,7 @@
     (pin "1" (uuid b86e01b7-aaa7-40ae-948f-84841cec6c53))
     (pin "2" (uuid b9d2a3a1-b181-4604-b343-2da48a3f2d16))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D39") (unit 1)
         )
@@ -7249,7 +7249,7 @@
     (pin "1" (uuid 5719c602-bd91-49f3-9480-832b44dc326a))
     (pin "2" (uuid 0fe82c6f-1ad8-41ca-ab73-94ee270eb202))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX8") (unit 1)
         )
@@ -7275,7 +7275,7 @@
     (pin "1" (uuid ece792da-b06d-440d-b070-3b87c9e2cefa))
     (pin "2" (uuid c93a96cf-367b-4fea-bb2d-1a6f1eb3295d))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX16") (unit 1)
         )
@@ -7301,7 +7301,7 @@
     (pin "1" (uuid 92a8031e-5e5e-41ec-b74d-68f0bd6cd72b))
     (pin "2" (uuid 99ec27e3-cad4-4b15-90ef-6a21123c02ef))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXsplit2.25(1)1") (unit 1)
         )
@@ -7331,7 +7331,7 @@
           (reference "#PWR027") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR012") (unit 1)
         )
@@ -7348,14 +7348,14 @@
     (property "Value" "275" (at 180.975 253.873 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.75u" (at 174.625 252.095 0)
+    (property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.75u" (at 174.625 252.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 174.625 252.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "S3") (unit 1)
         )
@@ -7381,7 +7381,7 @@
     (pin "1" (uuid 9065b199-7b27-4ec3-aedd-3e9174d163e4))
     (pin "2" (uuid c72c836a-84bd-49af-8a02-46ff35302a30))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX12") (unit 1)
         )
@@ -7407,7 +7407,7 @@
     (pin "1" (uuid 78425243-4153-401d-b74d-186e8fd50e98))
     (pin "2" (uuid a4840255-a4f1-4a5a-9211-250a8f314b25))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX40") (unit 1)
         )
@@ -7433,7 +7433,7 @@
     (pin "1" (uuid 34581381-d7af-42b9-a229-068f0775c62c))
     (pin "2" (uuid 779eab23-3edd-40f9-8416-9d145daa7d96))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX32") (unit 1)
         )
@@ -7459,7 +7459,7 @@
     (pin "1" (uuid 7836315a-862f-479e-94b4-f884a489a951))
     (pin "2" (uuid 968a35fc-58cd-41c1-ae6e-c59d676a49e6))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX30") (unit 1)
         )
@@ -7485,7 +7485,7 @@
     (pin "1" (uuid b4b359d2-fb94-46a6-98b2-2adc6fe4d7cb))
     (pin "2" (uuid 15982f5c-908d-41d3-93a0-80e808767044))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX50") (unit 1)
         )
@@ -7511,7 +7511,7 @@
     (pin "1" (uuid d5e197d4-57cb-4502-b821-92b515ac3ddc))
     (pin "2" (uuid 93ccd664-5e74-49c5-a12a-40297aeb0591))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX47") (unit 1)
         )
@@ -7537,7 +7537,7 @@
     (pin "1" (uuid ed36a171-cbc4-4c0e-a1a8-27ce904c433c))
     (pin "2" (uuid ed7f3a6d-1117-4c21-b518-73eea794acff))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX15") (unit 1)
         )
@@ -7569,7 +7569,7 @@
     (pin "1" (uuid b943f969-5f5f-4a29-abfb-65350a4e841b))
     (pin "2" (uuid a4fab651-1f82-434b-bb86-d71cd0bdb2bc))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D11") (unit 1)
         )
@@ -7604,7 +7604,7 @@
           (reference "#PWR012") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR018") (unit 1)
         )
@@ -7636,7 +7636,7 @@
     (pin "1" (uuid 6b2b3fe2-c212-47b2-900b-0c2631422c68))
     (pin "2" (uuid 85fd2a3b-cd1b-4c35-ae9e-5990506d8bd1))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D28") (unit 1)
         )
@@ -7660,7 +7660,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "enter2.1") (unit 1)
         )
@@ -7684,7 +7684,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "ISO1") (unit 1)
         )
@@ -7716,7 +7716,7 @@
     (pin "1" (uuid cfc04018-fbdd-4270-a149-6ad5a2b8de39))
     (pin "2" (uuid a2a920b3-d423-4226-b5b1-f9007733bd95))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D34") (unit 1)
         )
@@ -7746,7 +7746,7 @@
           (reference "#PWR010") (unit 1)
         )
       )
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "#PWR07") (unit 1)
         )
@@ -7778,7 +7778,7 @@
     (pin "1" (uuid 7a8977b0-d45c-43e2-975b-0a9be053387f))
     (pin "2" (uuid f5875c5b-3497-428c-9288-671067959d1b))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "D32") (unit 1)
         )
@@ -7804,7 +7804,7 @@
     (pin "1" (uuid 796251dd-d88e-497d-92ce-b87e647d29fd))
     (pin "2" (uuid c501ef3d-c39f-4f0f-8c00-04c3c15ea996))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX14") (unit 1)
         )
@@ -7830,7 +7830,7 @@
     (pin "1" (uuid 2dd5c902-996a-4181-b604-2db859a7c396))
     (pin "2" (uuid 145c6681-2950-4a63-947d-149be68ae2a5))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX51") (unit 1)
         )
@@ -7856,7 +7856,7 @@
     (pin "1" (uuid 09ecc52b-9255-4651-b4f2-3b1dc27565dc))
     (pin "2" (uuid bc295e0b-2406-4369-a158-da6742c574b1))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MXsplit2.1") (unit 1)
         )
@@ -7882,7 +7882,7 @@
     (pin "1" (uuid df0cd186-d418-4b45-8f0e-f66bafe5b21a))
     (pin "2" (uuid 948769ba-ae25-429f-a669-62d67bc4cabf))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX4") (unit 1)
         )
@@ -7908,7 +7908,7 @@
     (pin "1" (uuid 5772bfb9-85cb-45f7-ac29-f9e9051ded47))
     (pin "2" (uuid 4fead379-face-4346-ac60-2c54a0ffc7bd))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX25") (unit 1)
         )
@@ -7934,7 +7934,7 @@
     (pin "1" (uuid fa831f5e-8bb5-46b2-ba20-940fc0eb92a2))
     (pin "2" (uuid 742d49c9-08e0-47fd-b695-b9951f9ae4f9))
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce"
           (reference "MX49") (unit 1)
         )
@@ -7953,7 +7953,7 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "forti"
+      (project "forti rev 2"
         (path "/f5e5948c-eeca-4160-a5f8-686f765d01ce" (page "2"))
       )
     )
